@@ -1,4 +1,4 @@
-# MPCSFaaS - Function-as-a-Service Platform
+# Distributed Function-as-a-Service Platform
 
 A distributed Function-as-a-Service (FaaS) platform implementation using Python, FastAPI, Redis, and ZMQ. This project provides serverless function execution with three execution modes: Local, Pull, and Push.
 
