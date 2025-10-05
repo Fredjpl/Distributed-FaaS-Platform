@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pyzmq
+redis
+dill
+requests
+matplotlib
+numpy
+pytest
+pydantic
+psutil
+pytest-asyncio
+pandas
+seaborn
+scipy
