@@ -27,7 +27,7 @@ A distributed Function-as-a-Service (FaaS) platform implementation using Python,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mpcs-52040/mpcsfaas-project-peili.git
+git clone https://github.com/Fredjpl/Distributed-FaaS-Platform.git
 cd mpcsfaas
 ```
 
